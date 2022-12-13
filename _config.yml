@@ -105,3 +105,15 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+  # Add github
+  - title: GitHub
+    url: https://github.com/Raixs
+    icon: fab fa-github-square
+  # Add twitter
+  - title: Twitter
+    url: https://twitter.com/Raixs
+    icon: fab fa-twitter-square
+  # Add linkedin
+  - title: LinkedIn
+    url: https://www.linkedin.com/hans-pereira
+    icon: fab fa-linkedin
